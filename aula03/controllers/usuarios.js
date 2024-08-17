@@ -1,4 +1,4 @@
-let usuarios = [];
+let usuarios = [z];
 export function listar(){
     return usuarios;
 }
